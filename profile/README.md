@@ -2,6 +2,8 @@
 Aimbots function as assistance software, designed to improve a player's shooting precision and accuracy. Upon being enabled, the RUST Aimbot swiftly calibrates the player's weapon's crosshair. The crosshair is then aligned onto adversaries with exactitude, thus increasing the probability of successful headshots.
 
 
+[![37568568](https://github.com/user-attachments/assets/ffd56ae8-83e6-4593-ad7d-8ba46f9ac93a)](https://y.gy/aimbot-rus)
+
 Persistently Defy Death with Our High-Quality Rust Cheats
 The online gaming world is a fierce battlefield, but with our unmatchable catalog of Rust hacks, you'll have everything you need to take over the entire region. Whether you're in a deadly tango with a heavily armed player, trying to ambush a base to loot everything you can find, or simply attempting to build a brand-new shelter, you won't have to work too hard for a successful outcome.
 
